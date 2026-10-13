@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="test2" id="test2">
+	<SimpleField name="full_id" type="string"></SimpleField>
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="osm_type" type="string"></SimpleField>
+	<SimpleField name="building" type="string"></SimpleField>
+	<SimpleField name="addr:street" type="string"></SimpleField>
+	<SimpleField name="addr:postcode" type="string"></SimpleField>
+	<SimpleField name="addr:city" type="string"></SimpleField>
+	<SimpleField name="amenity" type="string"></SimpleField>
+</Schema>
+<Folder><name>test2</name>
+  <Placemark>
+	<name>JNCASR Dining</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w471741289</SimpleData>
+		<SimpleData name="osm_id">471741289</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">university</SimpleData>
+		<SimpleData name="amenity">food_court</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6127282,13.0693816 77.6129908,13.0693051 77.613065,13.069547 77.6129039,13.0695939 77.612867,13.0694736 77.6127655,13.0695032 77.6127282,13.0693816</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w473048339</SimpleData>
+		<SimpleData name="osm_id">473048339</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6137173,13.0694021 77.6138484,13.069404 77.61385,13.0692936 77.613719,13.0692918 77.6137173,13.0694021</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w473048340</SimpleData>
+		<SimpleData name="osm_id">473048340</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6142137,13.0694042 77.6144118,13.0694075 77.6144137,13.0693024 77.6142155,13.0692991 77.6142137,13.0694042</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w473048341</SimpleData>
+		<SimpleData name="osm_id">473048341</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145379,13.0692981 77.6146671,13.0692945 77.6146637,13.069179 77.6145345,13.0691826 77.6145379,13.0692981</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>C.N.R. Rao Hall Of Science</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w707652259</SimpleData>
+		<SimpleData name="osm_id">707652259</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">university</SimpleData>
+		<SimpleData name="addr:street">Rachenahalli Lake Rd</SimpleData>
+		<SimpleData name="addr:postcode">560064</SimpleData>
+		<SimpleData name="addr:city">Bengaluru</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6110722,13.0696365 77.6113039,13.069631 77.6112981,13.0693998 77.611188,13.0694024 77.6111914,13.0695389 77.6110698,13.0695418 77.6110722,13.0696365</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Kannada</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w707652271</SimpleData>
+		<SimpleData name="osm_id">707652271</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">university</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6107326,13.0693775 77.6107295,13.069269 77.6109602,13.0692629 77.6109632,13.0693713 77.6107326,13.0693775</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061465</SimpleData>
+		<SimpleData name="osm_id">1236061465</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6154303,13.0718395 77.6155785,13.0718473 77.615585,13.0717307 77.6154368,13.0717229 77.6154303,13.0718395</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061466</SimpleData>
+		<SimpleData name="osm_id">1236061466</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.615036,13.0718317 77.6151594,13.0718395 77.6151637,13.0717752 77.6150403,13.0717674 77.615036,13.0718317</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061467</SimpleData>
+		<SimpleData name="osm_id">1236061467</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6151721,13.0719283 77.6153042,13.0719388 77.6153103,13.0718654 77.6151782,13.071855 77.6151721,13.0719283</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061468</SimpleData>
+		<SimpleData name="osm_id">1236061468</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6150286,13.0719218 77.6151473,13.0719283 77.6151516,13.0718535 77.615033,13.071847 77.6150286,13.0719218</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061469</SimpleData>
+		<SimpleData name="osm_id">1236061469</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6150092,13.0720799 77.6151399,13.0720877 77.6151444,13.0720167 77.6150137,13.0720088 77.6150092,13.0720799</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061483</SimpleData>
+		<SimpleData name="osm_id">1236061483</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6146987,13.072072 77.6147979,13.0720759 77.6148013,13.0719963 77.614702,13.0719924 77.6146987,13.072072</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061484</SimpleData>
+		<SimpleData name="osm_id">1236061484</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6148281,13.071993 77.6149207,13.0719995 77.6149261,13.0719262 77.6148336,13.0719196 77.6148281,13.071993</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061485</SimpleData>
+		<SimpleData name="osm_id">1236061485</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6147228,13.0719048 77.6148207,13.0719081 77.6148233,13.0718369 77.6147254,13.0718336 77.6147228,13.0719048</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061486</SimpleData>
+		<SimpleData name="osm_id">1236061486</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6147249,13.0718232 77.6148228,13.071829 77.6148277,13.0717506 77.6147298,13.0717447 77.6147249,13.0718232</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061487</SimpleData>
+		<SimpleData name="osm_id">1236061487</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6147389,13.0717337 77.6148409,13.0717389 77.6148448,13.0716665 77.6147429,13.0716613 77.6147389,13.0717337</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061488</SimpleData>
+		<SimpleData name="osm_id">1236061488</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6147456,13.0716475 77.6148496,13.0716533 77.6148552,13.071559 77.6147513,13.0715531 77.6147456,13.0716475</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061489</SimpleData>
+		<SimpleData name="osm_id">1236061489</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145324,13.0719427 77.614635,13.0719486 77.6146396,13.0718728 77.614537,13.0718669 77.6145324,13.0719427</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061490</SimpleData>
+		<SimpleData name="osm_id">1236061490</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145405,13.0718578 77.6146431,13.071863 77.6146471,13.0717882 77.6145445,13.071783 77.6145405,13.0718578</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061491</SimpleData>
+		<SimpleData name="osm_id">1236061491</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6144218,13.071848 77.6145237,13.0718532 77.6145277,13.0717789 77.6144258,13.0717736 77.6144218,13.071848</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061492</SimpleData>
+		<SimpleData name="osm_id">1236061492</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145398,13.0717703 77.6146457,13.0717761 77.6146501,13.0717018 77.6145441,13.0716959 77.6145398,13.0717703</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061493</SimpleData>
+		<SimpleData name="osm_id">1236061493</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145458,13.071686 77.6146558,13.0716925 77.6146603,13.0716202 77.6145503,13.0716137 77.6145458,13.071686</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061494</SimpleData>
+		<SimpleData name="osm_id">1236061494</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6144345,13.0716834 77.6145317,13.071688 77.6145355,13.0716121 77.6144383,13.0716075 77.6144345,13.0716834</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061501</SimpleData>
+		<SimpleData name="osm_id">1236061501</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6140885,13.0720544 77.6141971,13.0720596 77.6142008,13.0719863 77.6140922,13.0719811 77.6140885,13.0720544</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061502</SimpleData>
+		<SimpleData name="osm_id">1236061502</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6142126,13.0719786 77.6143138,13.0719825 77.6143167,13.0719122 77.6142154,13.0719083 77.6142126,13.0719786</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061503</SimpleData>
+		<SimpleData name="osm_id">1236061503</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6142226,13.0718996 77.6143286,13.0719042 77.6143321,13.0718262 77.6142262,13.0718216 77.6142226,13.0718996</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061504</SimpleData>
+		<SimpleData name="osm_id">1236061504</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6141033,13.071895 77.6141978,13.0718996 77.6142021,13.071816 77.6141075,13.0718114 77.6141033,13.071895</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061505</SimpleData>
+		<SimpleData name="osm_id">1236061505</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.614236,13.0717369 77.6143406,13.0717441 77.6143459,13.0716715 77.6142413,13.0716644 77.614236,13.0717369</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061506</SimpleData>
+		<SimpleData name="osm_id">1236061506</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6141294,13.0715599 77.61424,13.0715691 77.6142477,13.0714816 77.614137,13.0714725 77.6141294,13.0715599</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061511</SimpleData>
+		<SimpleData name="osm_id">1236061511</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.611464,13.0705547 77.611641,13.0705534 77.6116316,13.0700295 77.6117081,13.0700282 77.6117051,13.0698609 77.6112655,13.0699459 77.611417,13.0704672 77.611464,13.0705547</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061512</SimpleData>
+		<SimpleData name="osm_id">1236061512</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6128556,13.069799 77.6126236,13.0697872 77.6125798,13.0706083 77.6128118,13.07062 77.6128472,13.0699576 77.613147,13.0699773 77.6131336,13.069814 77.6128556,13.069799</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061513</SimpleData>
+		<SimpleData name="osm_id">1236061513</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6129352,13.0705991 77.6131484,13.0706083 77.6131693,13.0701455 77.6129561,13.0701364 77.6129352,13.0705991</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061514</SimpleData>
+		<SimpleData name="osm_id">1236061514</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6117724,13.0704659 77.6122498,13.0704528 77.6122307,13.0697895 77.6117533,13.0698026 77.6117724,13.0704659</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1236061515</SimpleData>
+		<SimpleData name="osm_id">1236061515</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6127125,13.0712144 77.6132168,13.071204 77.6132114,13.0709586 77.6127072,13.0709691 77.6127125,13.0712144</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244470</SimpleData>
+		<SimpleData name="osm_id">1237244470</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6154608,13.0696529 77.6155452,13.069655 77.6155482,13.0695441 77.6154637,13.0695419 77.6154608,13.0696529</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244471</SimpleData>
+		<SimpleData name="osm_id">1237244471</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6153827,13.069861 77.6155235,13.0698623 77.6155245,13.0697631 77.6153836,13.0697618 77.6153827,13.069861</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244472</SimpleData>
+		<SimpleData name="osm_id">1237244472</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6146907,13.0697421 77.6148073,13.0697434 77.6148083,13.0696587 77.6146917,13.0696574 77.6146907,13.0697421</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244473</SimpleData>
+		<SimpleData name="osm_id">1237244473</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145203,13.0697408 77.6146652,13.0697395 77.6146643,13.0696506 77.6145195,13.0696519 77.6145203,13.0697408</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244474</SimpleData>
+		<SimpleData name="osm_id">1237244474</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6145029,13.069635 77.6146075,13.0696324 77.6146046,13.0695225 77.6145,13.0695251 77.6145029,13.069635</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244475</SimpleData>
+		<SimpleData name="osm_id">1237244475</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6153961,13.0694234 77.6154819,13.069426 77.6154857,13.0693075 77.6153999,13.0693049 77.6153961,13.0694234</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244476</SimpleData>
+		<SimpleData name="osm_id">1237244476</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6152794,13.0694208 77.6153719,13.0694221 77.6153754,13.0691883 77.6152829,13.069187 77.6152794,13.0694208</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244491</SimpleData>
+		<SimpleData name="osm_id">1237244491</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6146947,13.0693019 77.6148516,13.0693032 77.6148525,13.0691974 77.6146956,13.0691961 77.6146947,13.0693019</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244493</SimpleData>
+		<SimpleData name="osm_id">1237244493</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6142669,13.0692784 77.6143903,13.0692784 77.6143903,13.0691948 77.6142669,13.0691948 77.6142669,13.0692784</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244505</SimpleData>
+		<SimpleData name="osm_id">1237244505</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6133616,13.0694652 77.6135212,13.0694704 77.6135247,13.0693689 77.6133651,13.0693637 77.6133616,13.0694652</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244506</SimpleData>
+		<SimpleData name="osm_id">1237244506</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6133589,13.0696847 77.6134971,13.0696847 77.6134971,13.0695958 77.6133589,13.0695958 77.6133589,13.0696847</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244507</SimpleData>
+		<SimpleData name="osm_id">1237244507</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6136111,13.0698218 77.6137653,13.0698205 77.6137645,13.0697302 77.6136103,13.0697315 77.6136111,13.0698218</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244508</SimpleData>
+		<SimpleData name="osm_id">1237244508</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6138203,13.0696246 77.6139584,13.0696246 77.6139584,13.0695188 77.6138203,13.0695188 77.6138203,13.0696246</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237244509</SimpleData>
+		<SimpleData name="osm_id">1237244509</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6137841,13.0692784 77.6139517,13.0692771 77.6139509,13.069183 77.6137833,13.0691843 77.6137841,13.0692784</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237253909</SimpleData>
+		<SimpleData name="osm_id">1237253909</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6136144,13.0714927 77.6133871,13.0715025 77.6133648,13.0710109 77.6134516,13.0710071 77.613459,13.0711712 77.6135164,13.0711688 77.6135283,13.0714304 77.6136114,13.0714268 77.6136144,13.0714927</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237253910</SimpleData>
+		<SimpleData name="osm_id">1237253910</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6137224,13.0714313 77.6139014,13.0714698 77.6138813,13.0715658 77.6136748,13.0715697 77.613674,13.0715286 77.6136989,13.0715281 77.6137224,13.0714313</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1237253911</SimpleData>
+		<SimpleData name="osm_id">1237253911</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">yes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6137799,13.0719024 77.613849,13.0719025 77.6138489,13.0719351 77.6139147,13.0719353 77.6139151,13.071695 77.6137803,13.0716948 77.6137801,13.07179 77.6138492,13.0717901 77.6138491,13.0718496 77.61378,13.0718495 77.6137799,13.0719024</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test2">
+		<SimpleData name="full_id">w1308276976</SimpleData>
+		<SimpleData name="osm_id">1308276976</SimpleData>
+		<SimpleData name="osm_type">way</SimpleData>
+		<SimpleData name="building">construction</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>77.6140138,13.0704335 77.614636,13.0704277 77.6146326,13.0700841 77.6140104,13.0700899 77.6140138,13.0704335</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,26 @@
+name: tactical_field_map
+description: "Tactical Offline Field Map Application"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.0.0
+  latlong2: ^0.9.0
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.0
+  file_picker: ^8.0.0
+  xml: ^6.3.0
+  archive: ^3.3.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
